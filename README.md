@@ -10,4 +10,4 @@ Write or paste your mail and let the program check the mail.
 Run spam_detector.py
 
 # Performance
-The model gives about 97% roc-auc score in overall.
+The model gives about 96-97% roc-auc score in overall of 5-fold cross validations.
